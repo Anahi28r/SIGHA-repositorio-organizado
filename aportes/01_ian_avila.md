@@ -43,5 +43,3 @@ Propongo utilizar consultar() tanto con una ConsultaPorCurso como con una Consul
 ## Relación con el trabajo del grupo
 
 Mis ideas se complementan con las de los demás integrantes. Cuando dos propuestas se refieran a la misma clase u operación, las revisaremos juntas para acordar un solo diseño y evitar duplicaciones. Después podremos desarrollar y comprobar los cambios que adoptemos.
-
-[Consultar el informe](../docs/INFORME_SIGHA.pdf) · [Consultar el UML](../docs/UML_SIGHA.pdf) · [Leer el reporte completo](../docs/APORTES_POR_TEMA.pdf)
