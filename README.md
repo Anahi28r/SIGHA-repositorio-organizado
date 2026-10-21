@@ -81,7 +81,6 @@ SIGHA-POO/
 └── docs/
     ├── INFORME_SIGHA.pdf
     ├── UML_SIGHA.pdf
-    └── APORTES_POR_TEMA.pdf
 ```
 
 Los archivos de aportes se pueden leer directamente en GitHub. El reporte PDF reúne esas propuestas para su lectura o exposición.
