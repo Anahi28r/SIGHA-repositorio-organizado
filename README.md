@@ -80,7 +80,7 @@ SIGHA-POO/
 │   └── 05_heiko_vera.md
 └── docs/
     ├── INFORME_SIGHA.pdf
-    ├── UML_SIGHA.pdf
+    └── UML_SIGHA.pdf
 ```
 
 Los archivos de aportes se pueden leer directamente en GitHub. El reporte PDF reúne esas propuestas para su lectura o exposición.
@@ -93,7 +93,6 @@ Los archivos de aportes se pueden leer directamente en GitHub. El reporte PDF re
 4. Desarrollaremos las decisiones acordadas y comprobaremos su funcionamiento.
 5. Cada integrante incorporará desde su cuenta los cambios que efectivamente haya realizado.
 
-Persona, LaboratorioTI y las abstracciones de consulta, validación y disponibilidad son posibles ampliaciones del diseño inicial. Las revisaremos antes de adoptarlas; una propuesta no requiere crear automáticamente una clase nueva.
 
 ## Alcance
 
