@@ -14,7 +14,6 @@ El trabajo actual corresponde a definición y diseño. Revisaremos las propuesta
 | --- | --- |
 | [Informe de SIGHA](docs/INFORME_SIGHA.pdf) | Problemática, alcance, funcionalidades previstas y clases preliminares. |
 | [Diagrama UML](docs/UML_SIGHA.pdf) | Entidades y relaciones del diseño inicial. |
-| [Reporte de aportes por tema](docs/APORTES_POR_TEMA.pdf) | Las 30 propuestas organizadas por integrante y su relación con SIGHA. |
 
 ## Aportes de los integrantes
 
