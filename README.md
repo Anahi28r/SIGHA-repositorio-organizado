@@ -1,5 +1,8 @@
 # SIGHA · Sistema de Gestión de Horarios Académicos
 
+> **Boceto temporal de SIGHA.** Esta versión se presenta como una demostración práctica del proyecto académico y está sujeta a cambios y mejoras.
+
+
 ## Página web publicada
 
 **[Entrar a SIGHA](https://sigha-uleam.infinityfreeapp.com/)**
