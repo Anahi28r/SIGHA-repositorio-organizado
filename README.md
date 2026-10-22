@@ -1,5 +1,10 @@
 # SIGHA · Sistema de Gestión de Horarios Académicos
 
+## Página web publicada
+
+**[Entrar a SIGHA](https://sigha-uleam.infinityfreeapp.com/)**
+
+
 Proyecto de clase de **Programación Orientada a Objetos**, desarrollado en equipo durante el periodo académico **2026-2**. Nuestro propósito es apoyar la organización de horarios y reducir los cruces de docentes, aulas y cursos.
 
 ## Nuestro avance
