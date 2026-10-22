@@ -5,7 +5,7 @@
 
 ## Página web publicada para presentacion
 
-**[Entrar a SIGHA](https://sigha-uleam.infinityfreeapp.com/)**
+**[Entrar a SIGHA](https://sigha.wuaze.com/)**
 
 
 Proyecto de clase de **Programación Orientada a Objetos**, desarrollado en equipo durante el periodo académico **2026-2**. Nuestro propósito es apoyar la organización de horarios y reducir los cruces de docentes, aulas y cursos.
