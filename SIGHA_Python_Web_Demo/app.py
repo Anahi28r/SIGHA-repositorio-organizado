@@ -1,3 +1,5 @@
+#app.py — Programa principal
+#Utiliza Flask para levantar el servidor, recibir solicitudes y conectar la interfaz con la lógica del sistema.
 from dataclasses import asdict
 from flask import Flask, jsonify, render_template, request
 from core.sigha import Docente, Asignatura, Aula, Curso, Periodo, BloqueHorario, detectar_conflicto
