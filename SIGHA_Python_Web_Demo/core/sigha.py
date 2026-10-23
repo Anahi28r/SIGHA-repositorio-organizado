@@ -1,3 +1,5 @@
+#sigha.py — Lógica del sistema
+#Contiene las clases de Python, como Docente, Asignatura, Aula, Curso, Periodo y BloqueHorario, además de funciones para validar horarios y detectar conflictos.
 from dataclasses import dataclass
 from datetime import datetime
 
