@@ -1,0 +1,8 @@
+htdocs/_data/
+*.sqlite
+*.sqlite-*
+*.db
+.env
+.env.*
+SIGHA-cuentas.txt
+sessions/
