@@ -1,0 +1,61 @@
+SIGHA — DEMOSTRACIÓN WEB CON PYTHON Y FLASK
+===========================================
+
+IMPORTANTE
+----------
+Esta es una demostración educativa independiente. No modifica, importa ni se conecta
+a la carpeta SIGHAWEB original ni a su base de datos real. Usa datos de ejemplo en
+memoria: al apagar o reiniciar el servidor, los registros añadidos vuelven al estado
+inicial.
+
+QUÉ INCLUYE
+-----------
+- app.py: servidor web y API con Flask.
+- core/sigha.py: clases POO y validaciones de horarios en Python.
+- templates/index.html: estructura de la página.
+- static/styles.css: estilos.
+- static/app.js: interacción del navegador que consulta la API de Python.
+- requirements.txt: dependencia Flask.
+
+CÓMO EJECUTAR EN WINDOWS
+------------------------
+1. Extrae el ZIP en una carpeta propia, por ejemplo:
+   Escritorio\SIGHA_Python_Web_Demo
+
+2. Abre esa carpeta en Visual Studio Code.
+
+3. Abre la terminal de VS Code (Terminal > Nueva terminal).
+
+4. Instala Flask:
+   py -m pip install -r requirements.txt
+
+5. Inicia la aplicación:
+   py app.py
+
+6. Abre en el navegador:
+   http://127.0.0.1:5000
+
+7. Para apagarla, vuelve a la terminal y presiona Ctrl+C.
+
+SI EL COMANDO py NO FUNCIONA
+----------------------------
+Prueba:
+   python -m pip install -r requirements.txt
+   python app.py
+
+QUÉ PROBAR
+----------
+- Agrega un docente, una asignatura, un aula o un curso.
+- Crea un horario válido.
+- Intenta crear otra clase con el mismo docente, aula o curso en un horario
+  superpuesto para comprobar la validación del backend Python.
+- Prueba horas fuera de 07:00–18:00 o una hora de fin anterior al inicio.
+
+NOTAS
+-----
+- Este prototipo no implementa inicio de sesión ni persistencia en disco.
+- La validación principal de horas y conflictos está en core/sigha.py.
+- static/app.js está escrito en JavaScript porque el navegador lo ejecuta;
+  app.py y core/sigha.py son el backend y la lógica de negocio en Python.
+- El servidor usa debug=True solo para desarrollo local. No publiques este
+  prototipo directamente en Internet.

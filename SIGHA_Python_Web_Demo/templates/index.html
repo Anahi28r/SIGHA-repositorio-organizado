@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SIGHA · Demo Python</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <header class="top">
+    <div class="brand"><div class="logo">S</div><div><strong>SIGHA</strong><small>Sistema de Gestión de Horarios Académicos</small></div></div>
+    <span class="pill">DEMO LOCAL · PYTHON + FLASK</span>
+  </header>
+  <main class="wrap">
+    <section class="hero">
+      <div><p class="eyebrow">PROTOTIPO FUNCIONAL</p><h1>Organiza horarios.<br><span>Evita conflictos.</span></h1>
+      <p class="intro">Una demostración web conectada a un backend Python. Los datos son de ejemplo y se guardan solo mientras el servidor está encendido.</p></div>
+      <div class="hero-stat"><span>HORARIO ACADÉMICO</span><strong>07:00–18:00</strong><small>Lunes a viernes</small></div>
+    </section>
+    <section class="stats" id="stats"></section>
+    <nav class="tabs">
+      <button class="tab active" data-view="horarios">Horarios</button>
+      <button class="tab" data-view="docentes">Docentes</button>
+      <button class="tab" data-view="asignaturas">Asignaturas</button>
+      <button class="tab" data-view="aulas">Aulas</button>
+      <button class="tab" data-view="cursos">Cursos</button>
+    </nav>
+    <div id="notice" role="status" class="notice hidden"></div>
+    <section id="view"></section>
+    <footer>Proyecto de demostración educativa · No modifica tu SIGHAWEB real.</footer>
+  </main>
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
