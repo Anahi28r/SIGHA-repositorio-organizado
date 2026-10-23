@@ -75,23 +75,6 @@ Una misma operación con comportamientos diferentes según el objeto.
 
 [Ian](aportes/01_ian_avila.md#polimorfismo) · [Jeremy](aportes/02_jeremy_eduarte.md#polimorfismo) · [José](aportes/03_jose_intriago.md#polimorfismo) · [Anahí](aportes/04_anahi_robayo.md#polimorfismo) · [Heiko](aportes/05_heiko_vera.md#polimorfismo)
 
-## Organización del repositorio
-
-```text
-SIGHA-POO/
-├── README.md
-├── aportes/
-│   ├── 01_ian_avila.md
-│   ├── 02_jeremy_eduarte.md
-│   ├── 03_jose_intriago.md
-│   ├── 04_anahi_robayo.md
-│   └── 05_heiko_vera.md
-└── docs/
-    ├── INFORME_SIGHA.pdf
-    └── UML_SIGHA.pdf
-```
-
-Los archivos de aportes se pueden leer directamente en GitHub. El reporte PDF reúne esas propuestas para su lectura o exposición.
 
 ## Cómo integraremos las propuestas
 
